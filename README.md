@@ -1,5 +1,9 @@
 # CNN Model for Image Classification of Blood Cell Types
 
+<p align="center">
+<img src="images/img2.png" width=50% height=50%>
+</p>
+
 This project involves building and training a Convolutional Neural Network (CNN) for the classification of eight different types of blood cells using TensorFlow. The dataset used in this project was obtained from Kaggle and contains 17,092 high-quality images of normal blood cells captured with the CellaVision DM96 analyzer at the Core Laboratory of the Hospital Clinic of Barcelona.
 
 ## Dataset Information
